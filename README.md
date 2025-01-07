@@ -140,6 +140,4 @@ gcc -pthread -o output_file program_name.c
 
 ## Author
 
-Developed as part of a multithreading demonstration in C. Contributions and improvements are welcome!
-
-Ahmed
+Ahmed Walid
